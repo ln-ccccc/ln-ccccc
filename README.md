@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:linchengcheng@cug.edu.cn">
     <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="YOUR_GOOGLE_SCHOLAR_URL">
